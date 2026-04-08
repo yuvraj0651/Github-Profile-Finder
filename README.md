@@ -1,4 +1,4 @@
-# 🔍 GitHub Profile Finder 🚀
+# 🔍 GitHub Profile Finder 
 
 ## 📌 Overview
 A modern web application that allows users to search and explore GitHub profiles by username. It fetches real-time data from the GitHub API and displays detailed user information, including repositories, followers, and profile insights.
